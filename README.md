@@ -1,1 +1,1 @@
-# coza-store
+# coza-store-project
